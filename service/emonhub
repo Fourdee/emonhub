@@ -19,7 +19,7 @@
 ### END INIT INFO
 
 NAME=emonhub
-DAEMONUSER="emonhub"
+DAEMONUSER="root"
 SYSCONF_PATH=/etc/default/
 
 # If there's no configuration file, die!!
